@@ -1,0 +1,21 @@
+body {
+    background-color: #74FF5E;
+    color: #EEE;
+    letter-spacing: 1.5em;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+img{
+    cursor: pointer;
+    width: 40px;
+}
+
+h1{
+    display: none;
+}
